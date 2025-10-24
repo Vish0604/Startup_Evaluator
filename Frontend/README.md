@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Startup_Evaluator
+=======
 
   # Startup Idea Evaluator Frontend
 
@@ -9,3 +12,4 @@
 
   Run `npm run dev` to start the development server.
   
+>>>>>>> c64030f (Initial commit)
